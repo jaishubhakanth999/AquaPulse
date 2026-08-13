@@ -1,0 +1,7 @@
+{
+  "name": "AquaPulse Frontend",
+  "description": "Vite + React + TypeScript frontend for AquaPulse demo",
+  "scripts": {
+    "dev": "cd client && npm install && npm run dev"
+  }
+}
